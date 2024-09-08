@@ -1,0 +1,45 @@
+{
+  "name": "PumpUp Testnet",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+  "keywords": ["defi"],
+  "timestamp": "2024-07-07T00:00:00.000+00:00",
+  "tokens": [ 
+        {
+            "chainId": 84532,
+            "address": "0xAC1865d91D69BF5dc89c4FaDDfd06Ed68d26e5FD",
+            "name": "Lido DAO",
+            "symbol": "LDO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13573/standard/Lido_DAO.png?1696513326"
+        },
+        {
+            "chainId": 84532,
+            "address": "0x2E47543a839dfd4722c768638642C403Fb0535FD",
+            "name": "Celestia",
+            "symbol": "TIA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31967/standard/tia.jpg?1696530772"
+        },
+        {
+            "chainId": 84532,
+            "address": "0x49268D4A726e840a8Dae91C962A1ba319AD8FA49",
+            "name": "Doge",
+            "symbol": "DOGE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+        },
+        {
+            "chainId": 84532,
+            "address": "0x5145d5D8831FC0d345dE49ff4D04D12eDE28DF84",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+  }
+}
