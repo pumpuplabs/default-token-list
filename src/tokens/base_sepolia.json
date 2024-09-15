@@ -35,6 +35,14 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        },
+        {
+            "chainId": 84532,
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
         }
     ],
     "version": {
