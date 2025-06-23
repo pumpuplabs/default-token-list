@@ -1,0 +1,26 @@
+[
+      {
+         "chainId":57073,
+         "address":"0x4200000000000000000000000000000000000006",
+         "symbol":"WETH",
+         "name":"Wrapped ETH",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/39810/small/weth.png"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+         "symbol": "USD₮0",
+         "name": "USD₮0",
+         "decimals": 6,
+         "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+      },
+      {
+         "chainId": 57073,
+         "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+         "symbol": "USDCE",
+         "name": "Stargate Bridged USDC Ink",
+         "decimals": 6,
+         "logoURI": "https://assets.coingecko.com/coins/images/53782/small/usdc.jpg"
+      }
+]
